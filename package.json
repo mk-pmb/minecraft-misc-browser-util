@@ -1,0 +1,21 @@
+{ "name": "minecraft-end-city-grid-calculator-html",
+  "version": "0.1.0",
+  "description": "Calculate the nearby end city grid lines.",
+  "keywords": ["minecraft"],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/minecraft-end-city-grid-calculator-html/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/minecraft-end-city-grid-calculator-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/minecraft-end-city-grid-calculator-html/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "engines": { "html": ">=5.0.0" }
+}
