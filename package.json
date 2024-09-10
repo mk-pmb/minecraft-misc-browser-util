@@ -16,6 +16,22 @@
 
   "private": true, "license": "ISC",
 
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb" },
 
-  "engines": { "html": ">=5.0.0" }
+  "dependencies": {
+  },
+  "browser": {
+  },
+  "devDependencies": {
+    "eslint-config-nodejs-pmb": "^0.3.6",
+    "eslint-plugin-json-light-pmb": "^1.0.7",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-pretty-pmb": "^1.0.5",
+    "nodemjs": "^0.1.15"
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=16.0.0" }
 }
