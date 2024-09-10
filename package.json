@@ -1,16 +1,16 @@
-{ "name": "minecraft-end-city-grid-calculator-html",
+{ "name": "minecraft-misc-browser-util",
   "version": "0.1.0",
-  "description": "Calculate the nearby end city grid lines.",
+  "description": "Miscellaneous little helpers for Minecraft that can be run in a browser, including but not limited to: End city grid calculator, nether portal coordinates, item count → chests/stacks/single.",
   "keywords": ["minecraft"],
 
   "author": "M.K. (https://github.com/mk-pmb)",
-  "homepage": "https://github.com/mk-pmb/minecraft-end-city-grid-calculator-html/#readme",
+  "homepage": "https://github.com/mk-pmb/minecraft-misc-browser-util/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mk-pmb/minecraft-end-city-grid-calculator-html.git"
+    "url": "git+https://github.com/mk-pmb/minecraft-misc-browser-util.git"
   },
   "bugs": {
-    "url": "https://github.com/mk-pmb/minecraft-end-city-grid-calculator-html/issues"
+    "url": "https://github.com/mk-pmb/minecraft-misc-browser-util/issues"
   },
   "contributors": [],
 
