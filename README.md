@@ -10,7 +10,11 @@ including but not limited to: End city grid calculator, nether portal
 coordinates, item count → chests/stacks/single.
 <!--/#echo -->
 
-* [Try it live](https://mk-pmb.github.io/minecraft-end-city-grid-calculator-html/)
+
+Try it live
+-----------
+
+* [End City Grid Calculator](https://mk-pmb.github.io/minecraft-misc-browser-util/util/end_city_grid_calculator.html)
 
 <!--#toc stop="scan" -->
 
