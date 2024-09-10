@@ -15,6 +15,7 @@ Try it live
 -----------
 
 * [End City Grid Calculator](https://mk-pmb.github.io/minecraft-misc-browser-util/apps/end_city_grid_calculator/)
+* [Item count to barrels/stacks/remainder](https://mk-pmb.github.io/minecraft-misc-browser-util/apps/item_count_stacks_barrels/)
 
 <!--#toc stop="scan" -->
 

@@ -21,15 +21,16 @@
   "eslintConfig": { "extends": "nodejs-pmb" },
 
   "dependencies": {
+    "ghpages-calculator-plugin-frontend-2408-pmb": "^0.2409110500.1",
+    "nodemjs": "^0.1.15"
   },
   "browser": {
   },
   "devDependencies": {
     "eslint-config-nodejs-pmb": "^0.3.6",
     "eslint-plugin-json-light-pmb": "^1.0.7",
-    "eslint-plugin-n": "^15.2.4",
-    "eslint-pretty-pmb": "^1.0.5",
-    "nodemjs": "^0.1.15"
+    "eslint-plugin-n": "^17.10.2",
+    "eslint-pretty-pmb": "^1.0.5"
   },
 
 

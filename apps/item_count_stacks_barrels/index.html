@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="UTF-8">
+  <title>Loading…</title>
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="Content-Script-Type" content="text/javascript">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <style>
+    @import url("../../../ghpages-calculator-plugin-frontend-2408-pmb/dist/style.css");
+    @import url("style.css");
+  </style>
+</head><body>
+  <p>Loading&hellip; (is JavaScript enabled?)</p>
+  <script src="../../../jquery-dist-pmb/jquery/jquery-3.x.min.js"></script>
+  <script src="../../../jquery-dist-pmb/lodash/full.v4.x.min.js"></script>
+  <script src="../../../cjs-minifake-pmb/m.js"></script>
+  <script modname="ui" src="../../../ghpages-calculator-plugin-frontend-2408-pmb/dist/ui.js"></script>
+  <script modname="plugin" src="plugin.js"></script>
+  <script>window.require('ui').renderPlugin(window.require('plugin'));</script>
+</body></html>
