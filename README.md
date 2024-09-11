@@ -14,7 +14,7 @@ coordinates, item count → chests/stacks/single.
 Try it live
 -----------
 
-* [End City Grid Calculator](https://mk-pmb.github.io/minecraft-misc-browser-util/util/end_city_grid_calculator.html)
+* [End City Grid Calculator](https://mk-pmb.github.io/minecraft-misc-browser-util/apps/end_city_grid_calculator/)
 
 <!--#toc stop="scan" -->
 
